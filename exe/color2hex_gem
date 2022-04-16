@@ -2,4 +2,4 @@
 
 require 'color2hex'
 
-Color2hex::CLI.start
+Color2hexCLI.start
