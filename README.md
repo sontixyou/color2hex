@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`RGB(255, 255, 255)` is translate HEX color code(`#ffffff`)
+
+### Commands
+```
+color2hex_gem main {red} {green} {blue}
+```
+output is `#xxxxxx`
 
 ## Development
 
