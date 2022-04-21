@@ -22,6 +22,7 @@ Or install it yourself as:
 ## Usage
 
 `RGB(255, 255, 255)` is translate HEX color code(`#ffffff`)
+this gem This converts rgb values to hex decimals. Can be converted by entering commands in the terminal
 
 ### Commands
 

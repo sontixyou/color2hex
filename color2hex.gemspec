@@ -3,11 +3,11 @@ require_relative 'lib/color2hex/version'
 Gem::Specification.new do |spec|
   spec.name          = "color2hex"
   spec.version       = Color2hex::VERSION
-  spec.authors       = ["kenken"]
+  spec.authors       = ["sontixyou"]
   spec.email         = ["angelbeatsviolin@gmail.com"]
 
-  spec.summary       = %q{this gem is color transfer to hex}
-  spec.description   = %q{this gem is color transfer to hex}
+  spec.summary       = %q{this gem This converts rgb values to hex decimals. Can be converted by entering commands in the terminal}
+  spec.description   = %q{this gem This converts rgb values to hex decimals. Can be converted by entering commands in the terminal}
   spec.homepage      = "https://github.com/sontixyou"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = 'http://mygemserver.com'
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://duckduckgo.com/?q=color+%23&ia=web"
-  spec.metadata["changelog_uri"] = "https://duckduckgo.com/?q=color+%23&ia=web"
+  spec.metadata["source_code_uri"] = "https://github.com/sontixyou/color2hex"
+  spec.metadata["changelog_uri"] = "https://github.com/sontixyou/color2hex"
 
   spec.add_dependency "thor"
 
